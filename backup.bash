@@ -23,7 +23,7 @@ function getBackup() {
 # parse custom backup dir, if any
 while getopts d:p:u:z: opt ; do
         case $opt in
-    d) BKUP_DIR=${OPTARG}    ;;
+    		d) BKUP_DIR=${OPTARG}    ;;
 		p) INST_PORT=${OPTARG}   ;;
 		u) INST_USER=${OPTARG}    ;;	
 		z) INST_PASSWD=${OPTARG} ;;
