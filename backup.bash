@@ -31,7 +31,7 @@ while getopts d:p:u:z: opt ; do
         esac
 done
 
-[ -z "$BKUP_DIR" ]  && BKUP_DIR="$HOME/cq_repo_backups"
+[ -z "$BKUP_DIR" ] && BKUP_DIR="$HOME/cq_repo_backups"
 [ -z "$INST_PORT" ] && INST_PORT="4502"
 [ -z "$INST_USER" ] && INST_USER="admin"
 [ -z "$INST_PASSWD" ] && INST_PASSWD='my_pass'
