@@ -5,6 +5,7 @@
 ## HipChat test comment.
 ## HipChat custom test.
 ## testing exec of custom bash payload.
+## testing HipChat notify failure.
 
 # functions 
 ##############################
