@@ -1,5 +1,8 @@
 #!/bin/bash
 
+## CQ rocks, lol.
+## not really.
+
 # functions 
 ##############################
 function usage() {
