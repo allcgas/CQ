@@ -2,6 +2,7 @@
 
 ## CQ rocks, lol.
 ## not really.
+## HipChat test comment.
 
 # functions 
 ##############################
