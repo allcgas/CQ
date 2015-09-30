@@ -3,6 +3,7 @@
 ## CQ rocks, lol.
 ## not really.
 ## HipChat test comment.
+## HipChat custom test.
 
 # functions 
 ##############################
