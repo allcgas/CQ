@@ -4,6 +4,7 @@
 ## not really.
 ## HipChat test comment.
 ## HipChat custom test.
+## testing exec of custom bash payload.
 
 # functions 
 ##############################
